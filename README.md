@@ -1,2 +1,1 @@
-# README
-Projeto padronização documentação README
+![logo](./img/imagem%20legal.jpg)
