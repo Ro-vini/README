@@ -4,17 +4,17 @@
     <img src="./img//imagem legal.jpg">
 </p>
 
-# Titulo do Projetow
-<!-- ## Titulo do Projetow
-### Titulo do Projetow
-#### Titulo do Projetow
-##### Titulo do Projetow -->
+# Titulo do Projeto
+<!-- ## Titulo do Projeto
+### Titulo do Projeto
+#### Titulo do Projeto
+##### Titulo do Projeto -->
 
 
-<!-- <h1>Projetinhow</h1>
-<h2>Projetinhow</h2>
-<h3>Projetinhow</h3>
-<h4>Projetinhow</h4> -->
+<!-- <h1>Projetinho</h1>
+<h2>Projetinho</h2>
+<h3>Projetinho</h3>
+<h4>Projetinho</h4> -->
 
 <p id="description">
     Este README tem a proposta de apresentar um modelo de documentação de repositórios
@@ -24,15 +24,51 @@
 
 Conteúdo
 <ul>
-    <li><a href="#description">Descrissaum</a></li>
+    <li><a href="#description">Descrição</a></li>
     <li><a href="#statusprojeto">Status</a></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#PreRequisitos">Pré Requisitos</a></li>
+    <li><a href="#MapaDoProjeto">Mapa do Projeto</a></li>
+    <li><a href="#TecnologiasUtilizadas">Tecnologias Utilizadas</a></li>
 </ul>
 
 ## :rocket: Status do Projeto
 <h4 id="statusprojeto" align="left">Em construção</h4>
+
+<p id="features"></p>
+
+## Features
+
+- [x] README - Padrões de documentação
+- [ ] README - Usando SSH
+
+<p id="PreRequisitos"></p>
+
+## Pré Requisitos
+
+Você precisa ter instalado:
+
+<ul>
+    <li><a href="https://code.visualstudio.com/">VS Code</a></li>
+    <li></li>
+</ul>
+
+<p id="MapaDoProjeto"></p>
+
+## Mapa do projeto 
+
+````
+├───img
+└───src
+    ├───app
+    ├───Interface
+    └───repository
+````
+
+<p id="TecnologiasUtilizadas"></p>
+
+## Tecnologias Utilizadas
+
+- [HTML]
+- [Markdown]
+
