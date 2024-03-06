@@ -37,32 +37,7 @@ Conteúdo
 
 <p id="features"></p>
 
-## Features
 
-- [x] README - Padrões de documentação
-- [ ] README - Usando SSH
-
-<p id="PreRequisitos"></p>
-
-## Pré Requisitos
-
-Você precisa ter instalado:
-
-<ul>
-    <li><a href="https://code.visualstudio.com/">VS Code</a></li>
-    <li></li>
-</ul>
-
-<p id="MapaDoProjeto"></p>
-
-## Mapa do projeto 
-
-````
-├───img
-└───src
-    ├───app
-    ├───Interface
-    └───repository
 ````
 
 <p id="TecnologiasUtilizadas"></p>
