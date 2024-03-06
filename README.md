@@ -71,4 +71,4 @@ Você precisa ter instalado:
 
 - [HTML]
 - [Markdown]
-
+- [Badgets]
